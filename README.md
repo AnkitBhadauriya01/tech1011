@@ -1,1 +1,1 @@
-# springboot-azuraql
+# springboot-azursql
